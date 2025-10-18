@@ -10,13 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "css": "^3.0.0",
     "diff": "^8.0.2",
     "fs-extra": "^11.3.2",
+    "media-query-parser": "^3.0.2",
     "postcss": "^8.5.6",
     "postcss-nested": "^7.0.2",
-    "postcss-safe-parser": "^7.0.1",
-    "prettier": "^3.6.2",
+    "postcss-selector-parser": "^7.1.0",
     "puppeteer": "^24.25.0"
   }
 }
