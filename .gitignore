@@ -1,0 +1,7 @@
+
+.clinerules/
+.github/
+data/
+node_modules/
+.vscode/
+npm-debug.log*
